@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="878" alt="Screenshot 2020-09-02 at 17 30 18" src="https://user-images.githubusercontent.com/4329912/92127754-890a1380-edf9-11ea-9bb6-09b0ba2a5346.png">
+
+**Medium**: [Link](https://medium.com/@paramsingh_66174/functional-programming-in-javascript-part-ii-984203a5aee9)
 
 ## Available Scripts
 
